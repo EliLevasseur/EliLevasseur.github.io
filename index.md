@@ -2,7 +2,7 @@
 
 My name is Eli Levasseur and I'm a first-year computer science and math student at uOttawa.
 Since July I've been writing a neural network framework in C++ with no outside math or ML libraries,
-because I wanted to understand how every piece works instead of makiing just another PyTorch data science project.
+because I wanted to understand how every piece works instead of making just another PyTorch data science project.
 This month I used it to train a small language model on children's stories.
 Here's what it writes when I give it the start of a story:
 
@@ -12,7 +12,7 @@ He saw a knowin felt a big smile. She was very excited. She cat not like came
 to the door too. They are don
 ```
 
-The first sentence makes but after that it becomes apparent the model doesnt understand context.
+The first sentence makes sense but after that it becomes apparent the model doesn't understand context.
 This is why it is version 1.0, this post is about my journey to this point and what comes next.
 
 ## Starting with the simplest version
